@@ -1,4 +1,4 @@
-# CoolDataScientists
+# Heart Failure Prediction
 
 Team Name: The Cool Data Scientists
 
